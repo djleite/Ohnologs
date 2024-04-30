@@ -3,7 +3,7 @@ Ohnolog prediction workflow
 
 
 ## Overview
-This pipeline uses Orthofinder (Emms et al 2019) and a previously published ohnolog prediction tool (Singh et al 2015; 2019). The original ohnolog pipeline (https://github.com/SinghLabUCSF/Ohnologs-v2.0) was modified with some multi-threading to reduce run times.
+This pipeline uses Orthofinder (Emms et al 2019) and a previously published ohnolog prediction tool (Singh et al 2015; 2019). The original ohnolog pipeline (https://github.com/SinghLabUCSF/Ohnologs-v2.0) was modified with some multi-processing to reduce run times.
 
 Please follow the installation of these tools and dependencies. The run_iterate_whole_pipeline.sh script uses a conda environment called "ohnologs", which can be created with the "requirements.txt" file.
 
