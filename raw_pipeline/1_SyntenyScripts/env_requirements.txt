@@ -1,0 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
+libgcc-ng=9.1.0=hdf63c60_0
+perl=5.26.2=h14c3975_0
+perl-exporter=5.72=pl526_1
+perl-exporter-tiny=1.002001=pl526_0
+perl-list-moreutils=0.428=pl526_1
+perl-list-moreutils-xs=0.428=pl526_0
+perl-math-bigint=1.999816=pl526_0
+perl-math-combinatorics=0.09=pl526_1
+perl-math-complex=1.59=pl526_0
+perl-xsloader=0.24=pl526_0
