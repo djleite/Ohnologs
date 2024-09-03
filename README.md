@@ -18,3 +18,5 @@ IMPORTANT NOTE: Naming convention should follow that each gene ID has the specie
 
 Example data of protein fastas, gene order and species list files have been provided.
 
+/results - contains the final results for spiders and hsc ohnologs at orthofinder inflation parameters 1.4, 1.5, and 1.6 and at the four z-score thresholds 0, A, B, and C
+
