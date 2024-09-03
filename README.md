@@ -10,9 +10,9 @@ Please follow the installation of these tools and dependencies. The run_iterate_
 
 
 Inputs are:
-- Protein fastas
-- Tab delimited "gene order" coordinate files of genes. (gene, strand[1/-1], chromosome, start, end)
-- Species list with each species per line
+- Protein fastas. These need to be in the raw_pipline folder.
+- Tab delimited "gene order" coordinate files of genes. (gene, strand[1/-1], chromosome, start, end). These need to be in the raw_pipline folder.
+- Species list with each species per line. This needs to be in the raw_pipline folder.
 
 IMPORTANT NOTE: Naming convention should follow that each gene ID has the species ID e.g. TARGIG, followed by the gene ID _g10000, i.e. TACGIG_g10000. The species list should contain this TACGIG ID.
 
